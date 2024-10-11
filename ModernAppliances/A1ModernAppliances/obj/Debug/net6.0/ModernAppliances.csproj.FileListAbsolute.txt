@@ -1,0 +1,15 @@
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\lawre\OneDrive\Documents\OOP2\Ass1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
